@@ -1,6 +1,6 @@
 # health_connect_new
 
-Health Connect is an integrated health management application designed to enhance user experience by providing a comprehensive platform for health management. With features ranging from health tracking to mindfulness and meditation resources, this application aims to empower users to take charge of their health and well-being.
+Health Connect is an integrated health management application designed to enhance user experience by providing a comprehensive platform for health management. With features ranging from health tracking to mindfulness and meditation resources, this application aims to empower users to take charge of their health and well-being and also allow for them to have access of there health at hand.
 
 # Table of Contents
 Features
